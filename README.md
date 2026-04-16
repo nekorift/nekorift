@@ -48,9 +48,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoXgamez&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=false" height="95" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=NoXgamez&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="95" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoXgamez&locale=en&hide_title=true&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=false" height="95" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nekorift&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=false" height="95" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nekorift&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="95" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekorift&locale=en&hide_title=true&layout=compact&card_width=320&theme=chartreuse-dark&hide_border=false" height="95" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NoXgamez/NoXgamez/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nekorift/nekorift/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
